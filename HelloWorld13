@@ -1,0 +1,8 @@
+#!/usr/bin/perl
+print "content-type:text/html \n\n"; #HTTP HEADER
+#Two Strings To Be Added
+$myVariable="Hello";
+$My Variable="World";
+#ADD TWO STRINGS TOGETHER
+$strings3="$myvariable $My Variable";
+print $string3;
